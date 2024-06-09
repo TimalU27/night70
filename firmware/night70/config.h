@@ -21,6 +21,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /* Locking resynchronize hack */
 #define LOCKING_RESYNC_ENABLE
 
+//debounce
+#define DEBOUNCE 10
+
 /* Backlight configuration
  */
 #define RGBLIGHT_EFFECT_BREATHING
